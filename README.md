@@ -1,0 +1,2 @@
+# pdo
+ssh remote run
